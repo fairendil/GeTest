@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Emgu.CV" Version="4.6.0.5131" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DigitalAssembly.Photogrammetry.Geometry\DigitalAssembly.Photogrammetry.Geometry.csproj" />
+    <ProjectReference Include="..\DigitalAssembly.Photogrammetry\DigitalAssembly.Photogrammetry.csproj" />
+    <ProjectReference Include="..\math\DigitalAssembly.Math.Matrices\DigitalAssembly.Math.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DigitalAssembly.Math.Matrices\DigitalAssembly.Math.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Aladdin.HASP.Envelope">
+      <HintPath>..\Aladdin.HASP.Envelope.dll</HintPath>
+    </Reference>
+    <Reference Include="hasp_net_windows">
+      <HintPath>..\hasp_net_windows.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

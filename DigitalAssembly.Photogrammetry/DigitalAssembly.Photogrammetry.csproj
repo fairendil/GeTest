@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DigitalAssembly.Math.Common\DigitalAssembly.Math.Common.csproj" />
+    <ProjectReference Include="..\DigitalAssembly.Photogrammetry.Geometry\DigitalAssembly.Photogrammetry.Geometry.csproj" />
+  </ItemGroup>
+
+</Project>

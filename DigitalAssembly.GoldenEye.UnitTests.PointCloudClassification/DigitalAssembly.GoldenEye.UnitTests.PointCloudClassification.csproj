@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.6.0-preview-20230223-05" />
+    <PackageReference Include="NUnit" Version="3.13.3" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0-alpha.4" />
+    <PackageReference Include="NUnit.Analyzers" Version="3.6.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="coverlet.collector" Version="3.2.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DigitalAssembly.GoldenEye.Classifier\DigitalAssembly.GoldenEye.Classifier.csproj" />
+    <ProjectReference Include="..\DigitalAssembly.GoldenEye.DB\DigitalAssembly.GoldenEye.DB.csproj" />
+    <ProjectReference Include="..\DigitalAssembly.GoldenEye.Geometry\DigitalAssembly.GoldenEye.Geometry.csproj" />
+    <ProjectReference Include="..\DigitalAssembly.GoldenEye.Serializers\DigitalAssembly.GoldenEye.Serializers.csproj" />
+    <ProjectReference Include="..\DigitalAssembly.Math.PointClouds\DigitalAssembly.Math.PointClouds.csproj" />
+    <ProjectReference Include="..\DigitalAssembly.Photogrammetry.Serializers\DigitalAssembly.Photogrammetry.Serializers.csproj" />
+    <ProjectReference Include="..\DigitalAssembly.Photogrammetry\DigitalAssembly.Photogrammetry.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Points\Adapter_SC_MI.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Points\Adapter_SC_Ref.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Points\Adapter_SC_self.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Points\Ref+adapt_SC_MI.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Points\Reference_SC_self.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Points\Ref_SC_MI.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

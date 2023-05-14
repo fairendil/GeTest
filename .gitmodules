@@ -1,0 +1,3 @@
+[submodule "math"]
+	path = math
+	url = git@gitlab.com:digital-assembly/components/math.git

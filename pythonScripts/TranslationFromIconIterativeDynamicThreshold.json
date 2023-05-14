@@ -1,0 +1,589 @@
+{
+    "_0001": {
+        "type_id": "opencv-matrix",
+        "rows": 3,
+        "cols": 1,
+        "dt": "d",
+        "data": [ -8.6288360683526548e+02, 1.2120431198083358e+01,
+            4.9214049576226714e+01 ]
+    }
+,    "_0002": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0003": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0004": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0005": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0006": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0007": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0008": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0009": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0010": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0011": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0012": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0013": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0014": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0015": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0016": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0017": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0018": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0019": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0020": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0021": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0022": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0023": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0024": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0025": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0026": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0027": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0028": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0029": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0030": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0031": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0032": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0033": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0034": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0035": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0036": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0037": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0038": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0039": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0040": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0041": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0042": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0043": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0044": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0045": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0046": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0047": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0048": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0049": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0050": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0051": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0052": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0053": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0054": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0055": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0056": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0057": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0058": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0059": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0060": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0061": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0062": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0063": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0000": {
+        "type_id": "opencv-matrix",
+        "rows": 3,
+        "cols": 1,
+        "dt": "d",
+        "data": [ -8.6201208607631622e+02, 1.3448413752689607e+01,
+            6.1109034965569172e+01 ]
+    }
+,    "_0000": {
+        "type_id": "opencv-matrix",
+        "rows": 3,
+        "cols": 1,
+        "dt": "d",
+        "data": [ -8.6201208607631622e+02, 1.3448413752689607e+01,
+            6.1109034965569172e+01 ]
+    }
+,    "_0000": {
+        "type_id": "opencv-matrix",
+        "rows": 3,
+        "cols": 1,
+        "dt": "d",
+        "data": [ -8.6096777521546710e+02, 1.3287426804106200e+01,
+            7.2026388603177494e+01 ]
+    }
+,    "_0000": {
+        "type_id": "opencv-matrix",
+        "rows": 3,
+        "cols": 1,
+        "dt": "d",
+        "data": [ -8.6096777697802816e+02, 1.3287426831814820e+01,
+            7.2026388588433164e+01 ]
+    }
+,    "_0001": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0000": {
+        "type_id": "opencv-matrix",
+        "rows": 3,
+        "cols": 1,
+        "dt": "d",
+        "data": [ -8.6096777697802816e+02, 1.3287426831814820e+01,
+            7.2026388588433164e+01 ]
+    }
+,    "_0001": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0002": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0003": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0004": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0005": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0006": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0007": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0008": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0009": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0010": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0011": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0012": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0013": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+,    "_0014": {
+        "type_id": "opencv-matrix",
+        "rows": 0,
+        "cols": 0,
+        "dt": "u",
+        "data": []
+    }
+}

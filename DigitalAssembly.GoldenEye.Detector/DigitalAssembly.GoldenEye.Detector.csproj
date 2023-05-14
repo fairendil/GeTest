@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Emgu.CV.Bitmap" Version="4.7.0.5276" />
+    <PackageReference Include="Emgu.CV.runtime.windows" Version="4.7.0.5276" />
+    <PackageReference Include="Emgu.CV.UI" Version="4.7.0.5276" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.0-preview.4.23172.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DigitalAssembly.Math.Common\DigitalAssembly.Math.Common.csproj" />
+    <ProjectReference Include="..\DigitalAssembly.Photogrammetry.Geometry\DigitalAssembly.Photogrammetry.Geometry.csproj" />
+    <ProjectReference Include="..\DigitalAssembly.Photogrammetry\DigitalAssembly.Photogrammetry.csproj" />
+  </ItemGroup>
+
+</Project>
